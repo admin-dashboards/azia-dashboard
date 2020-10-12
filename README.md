@@ -1,4 +1,4 @@
-# [Azia Dashboard](https://admin-dashboards.com/azia-dashboard-free-admin-panel/)
+# [Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)
 
 A curated list with resources crafted on top of Azia Dashboard, a modern and free admin dashboard provided by BootstrapDash. Azia Admin is a free responsive admin template provided in many flavors (Bootstrap, Angular, React) and released under the MIT License on Github. 
 
@@ -20,7 +20,7 @@ Although the template has a design like none other, it is easily customizable to
 
 <br />
 
-## Azia Dashboard - Bootstrap4
+## [Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia-pro) - Bootstrap4
 
 The bootstrap version can be downloaded directly from Github and build locally if your workstation has Nodejs and Gulp installed. 
 
@@ -73,7 +73,7 @@ Gulp tasks available in [gulpfile.js](https://github.com/BootstrapDash/Azia-Admi
 
 <br >
 
-## Azia Dashboard - React
+## [Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia-pro) - React
 
 Azia Admin React is yet another incredible admin template from BootstrapDash that is based on the Bootstrap framework. The template is tastefully designed and coded to perfection. Azia Admin React comes packed with a lot of bootstrap components, UI elements, and built-in sample pages to kick-start your project.
 The template is highly customizable so that you can alter the design to suit your needs and give it a unique look and very well-documented to help you get started without any issues. The template has a colorful, attractive yet simple and elegant design.
@@ -101,7 +101,7 @@ The React version of Azia Dashboard will run on port `3000`. The design is ident
 
 <br />
 
-## Azia Dashboard - Angular
+## [Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia-pro) - Angular
 
 The Angular version used Angular CLI version 7.2.1 and can be downloaded directly from Github or built with a few commands without leaving this page. 
 
@@ -128,4 +128,4 @@ For more information regarding this modern UI Kit feel free to visit the UI Vend
 <br />
 
 --- 
-Azia Dashboard - Open-source admin dashboard provided in Bootstrap4, Angular and React by [BootstrapDash.com](https://www.bootstrapdash.com/?ref=23) 
+**[Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)** - Open-source admin dashboard provided in Bootstrap4, Angular and React by [BootstrapDash.com](https://www.bootstrapdash.com/?ref=23) 
