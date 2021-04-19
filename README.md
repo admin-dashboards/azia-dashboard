@@ -1,7 +1,7 @@
 # Azia Dashboard
 
-A curated list with resources crafted on top of **Azia Dashboard**, a modern and free admin dashboard provided by BootstrapDash. **Azia Admin** is a free responsive admin template provided in many flavors (Bootstrap, Angular, React) and released under the MIT License on Github. The template is well crafted, with all the components neatly and carefully designed and arranged within the template. 
-**Azia Dashboard** is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM.
+A curated list with resources crafted on top of **[Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)**, a modern and free admin dashboard provided by BootstrapDash. **Azia Admin** is a free responsive admin template provided in many flavors (Bootstrap, Angular, React) and released under the MIT License on Github. The template is well crafted, with all the components neatly and carefully designed and arranged within the template. 
+**[Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)** is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM.
 Although the template has a design like none other, it is easily customizable to suit your requirements. Azia Admin comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump starting your project.
 
 <br />
